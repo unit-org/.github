@@ -11,4 +11,5 @@ No unnecessary complexity. No ugly software.
 ---
 
 **Lucas Pignataro** · lucas@unitdev.tech
+
 **Manuel Corcos** · manuel@unitdev.tech
